@@ -49,7 +49,7 @@
 - NLTK
 
 > [!NOTE]
-> Manual labeling untuk penghitungan akurasi.
+> Manual labeling untuk penghitungan akurasi, jika diperlukan.
 
 
 
