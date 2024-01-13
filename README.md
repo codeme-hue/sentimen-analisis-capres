@@ -9,5 +9,8 @@
 <img src="result/ganjar/ganjar_negative_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 <img src="result/ganjar/ganjar_neutral_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
+> [!NOTE]
+> Manual labeling untuk penghitungan akurasi.
+
 
 
