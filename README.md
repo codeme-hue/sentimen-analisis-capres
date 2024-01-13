@@ -41,6 +41,13 @@
 - ### Negative Wordcloud
 - <img src="result/anies/anies_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
+## Tools
+> Python
+> Google Collab
+> VADER
+> Sastrawi
+> NLTK
+
 > [!NOTE]
 > Manual labeling untuk penghitungan akurasi.
 
