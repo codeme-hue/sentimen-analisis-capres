@@ -17,6 +17,18 @@
 - ### Negative Wordcloud
 - <img src="result/ganjar/ganjar_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
+## Letnan Jenderal TNI (Purn.) H. Prabowo Subianto Djojohadikusumo
+- ### Sentiments
+- <img src="result/prabowo/prabowo_sentiments.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Wordcloud
+- <img src="result/prabowo/prabowo_all_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Positive Wordcloud
+- <img src="result/prabowo/prabowo_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Neutral Wordcloud
+- <img src="result/prabowo/prabowo_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Negative Wordcloud
+- <img src="result/prabowo/prabowo_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+
 > [!NOTE]
 > Manual labeling untuk penghitungan akurasi.
 
