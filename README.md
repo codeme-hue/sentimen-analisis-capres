@@ -8,13 +8,13 @@
 ## H. Ganjar Pranowo, S.H., M.I.P.
 <img
   src="result/ganjar/ganjar_sentiments.png"
+  width="200" height="150"
   alt="Alt text"
-  title="H. Ganjar Pranowo, S.H., M.I.P."
-  style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 100px">
-<img src="result/ganjar/ganjar_all_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-<img src="result/ganjar/ganjar_positive_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-<img src="result/ganjar/ganjar_negative_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-<img src="result/ganjar/ganjar_neutral_wordcloud.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+  title="H. Ganjar Pranowo, S.H., M.I.P.">
+<img src="result/ganjar/ganjar_all_wordcloud.png" width="200" height="150" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+<img src="result/ganjar/ganjar_positive_wordcloud.png" width="200" height="150" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+<img src="result/ganjar/ganjar_negative_wordcloud.png" width="200" height="150" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+<img src="result/ganjar/ganjar_neutral_wordcloud.png" width="200" height="150" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
 > [!NOTE]
 > Manual labeling untuk penghitungan akurasi.
