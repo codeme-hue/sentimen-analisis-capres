@@ -9,7 +9,7 @@
 - ### Sentiments
 - <img src="result/ganjar/ganjar_sentiments.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Wordcloud
-- <img src="result/ganjar/ganjar_all_wordcloud.png" width="200" height="150" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- <img src="result/ganjar/ganjar_all_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Positive Wordcloud
 - <img src="result/ganjar/ganjar_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Neutral Wordcloud
