@@ -50,11 +50,11 @@
 
 ## Try
 ```
-git clone
-Buka google collab
-Upload file jupyter notebook dari masing masing capres
-Upload slangwords.txt dan stopwords.txt yang berada pada package preprocessing
-Run masing masing cell dari atas sampai cell terakhir
+- git clone https://github.com/codeme-hue/sentimen-analisis-capres.git
+- Buka google collab
+- Upload file jupyter notebook dari masing masing capres
+- Upload slangwords.txt dan stopwords.txt yang berada pada package preprocessing
+- Run masing masing cell dari atas sampai cell terakhir
 ```
 
 > [!NOTE]
