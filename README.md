@@ -13,9 +13,9 @@
 - ### Positive Wordcloud
 - <img src="result/ganjar/ganjar_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Neutral Wordcloud
-- <img src="result/ganjar/ganjar_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-- ### Negative Wordcloud
 - <img src="result/ganjar/ganjar_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Negative Wordcloud
+- <img src="result/ganjar/ganjar_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
 ## Letnan Jenderal TNI (Purn.) H. Prabowo Subianto Djojohadikusumo
 - ### Sentiments
@@ -25,9 +25,9 @@
 - ### Positive Wordcloud
 - <img src="result/prabowo/prabowo_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Neutral Wordcloud
-- <img src="result/prabowo/prabowo_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-- ### Negative Wordcloud
 - <img src="result/prabowo/prabowo_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Negative Wordcloud
+- <img src="result/prabowo/prabowo_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
 ## H. Anies Rasyid Baswedan, S.E., M.P.P., Ph.D
 - ### Sentiments
@@ -37,9 +37,9 @@
 - ### Positive Wordcloud
 - <img src="result/anies/anies_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 - ### Neutral Wordcloud
-- <img src="result/anies/anies_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
-- ### Negative Wordcloud
 - <img src="result/anies/anies_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Negative Wordcloud
+- <img src="result/anies/anies_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
 > [!NOTE]
 > Manual labeling untuk penghitungan akurasi.
