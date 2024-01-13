@@ -49,7 +49,6 @@
 - NLTK
 
 ## Try
-Beberapa perintah dasar Git adalah:
 ```
 git clone
 Buka google collab
