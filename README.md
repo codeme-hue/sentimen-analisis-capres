@@ -29,6 +29,18 @@
 - ### Negative Wordcloud
 - <img src="result/prabowo/prabowo_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
 
+## H. Anies Rasyid Baswedan, S.E., M.P.P., Ph.D
+- ### Sentiments
+- <img src="result/anies/anies_sentiments.png" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Wordcloud
+- <img src="result/anies/anies_all_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Positive Wordcloud
+- <img src="result/anies/anies_positive_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Neutral Wordcloud
+- <img src="result/anies/anies_negative_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+- ### Negative Wordcloud
+- <img src="result/anies/anies_neutral_wordcloud.png" width="500" height="300" alt="Alt text" title="H. Ganjar Pranowo, S.H., M.I.P.">
+
 > [!NOTE]
 > Manual labeling untuk penghitungan akurasi.
 
