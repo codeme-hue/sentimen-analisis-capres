@@ -1,2 +1,2 @@
 # Sentimen Analisis Calon Presiden
-![Alt text]("")
+![Alt text]("result/ganjar/ganjar_sentiments.png")
