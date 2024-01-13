@@ -1,5 +1,10 @@
 # Sentimen Analisis Calon Presiden
 <img
+  src="https://awsimages.detik.net.id/visual/2023/05/06/cover-artikel-pemilu-2024_169.jpeg?w=480&q=90"
+  alt="Alt text"
+  title="CAPRES"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
   src="result/ganjar/ganjar_sentiments.png"
   alt="Alt text"
   title="H. Ganjar Pranowo, S.H., M.I.P."
